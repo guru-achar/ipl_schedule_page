@@ -915,19 +915,6 @@ const Schedule = () => {
     },
   ]);
 
-  // {
-  //   id: 1,
-  //   date: 'Sat Mar 26 2022',
-  //   time: '07:30',
-  //   'pm/am': 'PM',
-  //   home_team: 'Chennai Super Kings',
-  //   away_team: 'Kolkata Knight Riders',
-  //   venue: 'Wankhede Stadium',
-  //   logo_home_team:
-  //     'https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/CSK/logos/Roundbig/CSKroundbig.png',
-  //   logo_away_team:
-  //     'https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/KKR/Logos/Roundbig/KKRroundbig.png',
-  // },
 
   return (
     <div className="schedule">
